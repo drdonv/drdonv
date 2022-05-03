@@ -3,7 +3,7 @@
 
 ### Hey 👋
 
-Currently in the lab experimenting.
+Currently in the lab experimenting with random projects!
 <!--
 **drdonv/drdonv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
